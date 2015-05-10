@@ -17,7 +17,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	background: lightblue; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -52,31 +52,32 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(zen-bg.jpg) no-repeat top left; 
+	background: lightcoral; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
 	}
 
 .intro { 
+	background: red;
 	min-width: 470px;
 	width: 100%;
 	}
 
 header h1 { 
-	background: transparent url(h1.gif) no-repeat top left;
+	background: pink;
 	margin-top: 10px;
 	display: block;
 	width: 219px;
 	height: 87px;
 	float: left;
-
+	color: blue;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 header h2 { 
-	background: transparent url(h2.gif) no-repeat top left; 
+	background: orange; 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
@@ -88,31 +89,37 @@ header h2 {
 	overflow: hidden;
 	}
 header {
+	background: green;
 	padding-top: 20px;
 	height: 87px;
 }
 
 .summary {
+	background: blue;
 	clear: both; 
 	margin: 20px 20px 20px 10px; 
 	width: 160px; 
 	float: left;
 	}
 .summary p {
+	background: lightgoldenrodyellow;
 	font: italic 1.1em/2.2 georgia; 
 	text-align: center;
 	}
 
 .preamble {
+	background: lightseagreen;
 	clear: right; 
 	padding: 0px 10px 0 10px;
 	}
 .supporting {	
+	background: yellow;
 	padding-left: 10px; 
 	margin-bottom: 40px;
 	}
 
 footer { 
+	background: white;
 	text-align: center; 
 	}
 footer a:link, footer a:visited { 
@@ -120,6 +127,7 @@ footer a:link, footer a:visited {
 	}
 
 .sidebar {
+	background: lightgray;
 	margin-left: 600px; 
 	position: absolute; 
 	top: 0; 
