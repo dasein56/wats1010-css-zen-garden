@@ -44,7 +44,7 @@ p {
 
 
 header{
-	background: white url(_images/loki-web.jpg);
+	background: white url(images/loki-web.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 200px;
@@ -59,7 +59,7 @@ header{
 }
 
 header:hover {
-	background: white url(_images/loki-web2.jpg);
+	background: white url(images/loki-web2.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 200px;
@@ -81,7 +81,7 @@ header:hover {
 	
 }
 .preamble:hover{
-	background: white url(_images/loki-enlightenment.jpg);
+	background: white url(images/loki-enlightenment.jpg);
 	background-repeat: no-repeat;
 	background-position: right;
 	
@@ -289,7 +289,7 @@ aside a:hover {
 }
 
 .requirements:hover{
-	background: white url(_images/loki-ragnarok.jpg);
+	background: white url(images/loki-ragnarok.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
